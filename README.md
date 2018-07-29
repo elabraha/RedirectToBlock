@@ -1,6 +1,8 @@
 # RedirectToBlock
 A chrome extension for blocking unproductive sites by redirecting you to your whitelisted sites.
 
+Evenually I NEED to work on this thing!!
+
 ## Features I plan to implement:
 1. Redirects from a block site. Either one link or list of links. 
 2. Catagories for redirects.
